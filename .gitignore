@@ -1,0 +1,17 @@
+# Kaggle files (download separately, see data/raw/PUT_KAGGLE_FILES_HERE.txt)
+data/raw/*
+!data/raw/PUT_KAGGLE_FILES_HERE.txt
+
+# generated at run time
+warehouse/
+landing/
+demo/
+*.duckdb
+*.wal
+*.html
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

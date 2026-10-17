@@ -1,0 +1,11 @@
+Put the three Kaggle files here. They are not included in the package: flights.csv is 590 MB,
+and still ~195 MB compressed, well above typical email attachment limits (20-25 MB).
+
+  flights.csv
+  airports.csv
+  airlines.csv
+
+Download: https://www.kaggle.com/usdot/flight-delays
+
+Or leave them elsewhere and pass --raw-dir <folder> before the command, e.g.
+  python -m aegean --raw-dir C:\data build-lookups

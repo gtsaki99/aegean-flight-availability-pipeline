@@ -1,0 +1,15 @@
+AIRLINE,AIRLINE_GROUP,VALID_FROM,VALID_TO,NOTE
+AA,AA_GROUP,,,American Airlines
+US,AA_GROUP,,2015-06-30,US Airways; reported under AA from 2015-07-01 after the merger
+AS,AS,,,
+B6,B6,,,
+DL,DL,,,
+EV,EV,,,
+F9,F9,,,
+HA,HA,,,
+MQ,MQ,,,
+NK,NK,,,
+OO,OO,,,
+UA,UA,,,
+VX,VX,,,
+WN,WN,,,

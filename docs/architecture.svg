@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 450" width="980" height="450" font-family="Segoe UI, system-ui, sans-serif">
+  <title>Daily pipeline: Land, Process, Task 2</title>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/>
+    </marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#898781"/>
+    </marker>
+  </defs>
+  <rect width="980" height="450" fill="#fcfcfb"/>
+
+  <g font-size="12" fill="#52514e">
+    <!-- provider -->
+    <rect x="20" y="40" width="170" height="120" rx="8" fill="#ffffff" stroke="#c3c2b7"/>
+    <text x="35" y="66" font-size="13" font-weight="600" fill="#0b0b0b">Provider</text>
+    <text x="35" y="88">daily feed: last n = 10</text>
+    <text x="35" y="104">flight days (gzip CSV)</text>
+    <text x="35" y="126">7 most recent days</text>
+    <text x="35" y="142">may still be corrected</text>
+
+    <!-- land -->
+    <rect x="230" y="40" width="190" height="120" rx="8" fill="#ffffff" stroke="#c3c2b7"/>
+    <text x="245" y="66" font-size="13" font-weight="600" fill="#0b0b0b">1. Land</text>
+    <text x="245" y="88">archive the file unchanged,</text>
+    <text x="245" y="104">write-once (landing/…/as_of=)</text>
+    <text x="245" y="126">register in feed_manifest;</text>
+    <text x="245" y="142">same checksum → DUPLICATE</text>
+
+    <!-- process -->
+    <rect x="460" y="40" width="260" height="210" rx="8" fill="#ffffff" stroke="#2a78d6"/>
+    <text x="475" y="66" font-size="13" font-weight="600" fill="#0b0b0b">2. Process (every landed feed, oldest first)</text>
+    <text x="475" y="90">stage: types, UTC times, airport mapping,</text>
+    <text x="475" y="106">fingerprints, row flags (uses the lookups)</text>
+    <text x="475" y="128">checks: block → QUARANTINED; warn → alert</text>
+    <text x="475" y="150">W = watermark (last processed feed):</text>
+    <text x="475" y="166">• feed days ≥ W−5 → replaced (one transaction)</text>
+    <text x="475" y="182">• older feed days → compared (reconciliation)</text>
+    <text x="475" y="198">• days ≥ W−5 no longer in the feed →</text>
+    <text x="475" y="214">   coverage gap, unverified until a backfill</text>
+    <text x="475" y="236" fill="#898781" font-size="11">lookups: airports (timezone, BTS ID), airlines, groups</text>
+
+    <!-- task 2 -->
+    <rect x="760" y="40" width="200" height="120" rx="8" fill="#ffffff" stroke="#c3c2b7"/>
+    <text x="775" y="66" font-size="13" font-weight="600" fill="#0b0b0b">3. Task 2 (full recompute)</text>
+    <text x="775" y="88">aircraft timelines (UTC) →</text>
+    <text x="775" y="104">ground time per local day,</text>
+    <text x="775" y="120">night 23:00–07:00, idle days</text>
+    <text x="775" y="142" fill="#0b0b0b">flights_availability (+ group)</text>
+
+    <!-- backfill and rebuild -->
+    <rect x="230" y="200" width="190" height="72" rx="8" fill="#ffffff" stroke="#c3c2b7"/>
+    <text x="245" y="222" font-size="13" font-weight="600" fill="#0b0b0b">Backfill</text>
+    <text x="245" y="242">one-off extract of final days,</text>
+    <text x="245" y="258">landed like a feed</text>
+
+    <rect x="230" y="310" width="190" height="72" rx="8" fill="#ffffff" stroke="#c3c2b7"/>
+    <text x="245" y="332" font-size="13" font-weight="600" fill="#0b0b0b">Rebuild</text>
+    <text x="245" y="352">initial load + every archived</text>
+    <text x="245" y="368">feed, in the original order</text>
+
+    <!-- warehouse -->
+    <rect x="460" y="290" width="500" height="112" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="475" y="314" font-size="13" font-weight="600" fill="#0b0b0b">Warehouse (DuckDB file locally; Delta / Iceberg in production)</text>
+    <text x="475" y="336">flights · day_digest · change_log · dq_results · dq_status</text>
+    <text x="475" y="354">feed_manifest · pipeline_state (watermark)</text>
+    <text x="475" y="372">flights_availability · flights_availability_by_group</text>
+    <text x="475" y="390">timeline_metrics (overlaps, chain breaks)</text>
+
+    <!-- key numbers -->
+    <text x="20" y="214" font-size="13" font-weight="600" fill="#0b0b0b">Key rules</text>
+    <text x="20" y="236">n = 10: 7-day window</text>
+    <text x="20" y="252">+ 1 day margin</text>
+    <text x="20" y="268">+ 2 missed runs</text>
+    <text x="20" y="290">normal day: 7 days</text>
+    <text x="20" y="306">replaced, 3 compared</text>
+    <text x="20" y="328">coverage gap after</text>
+    <text x="20" y="344">4+ missed runs</text>
+  </g>
+
+  <g stroke="#2a78d6" stroke-width="2" fill="none" marker-end="url(#a)">
+    <line x1="190" y1="100" x2="226" y2="100"/>
+    <line x1="420" y1="100" x2="456" y2="100"/>
+    <line x1="720" y1="100" x2="756" y2="100"/>
+  </g>
+  <g stroke="#898781" stroke-width="1.5" fill="none" marker-end="url(#g)">
+    <line x1="325" y1="200" x2="325" y2="164"/>
+    <line x1="420" y1="346" x2="456" y2="346"/>
+    <line x1="590" y1="250" x2="590" y2="286"/>
+    <line x1="860" y1="290" x2="860" y2="164"/>
+  </g>
+  <text x="20" y="435" font-size="11" fill="#898781">Blue: the daily flow. Grey: supporting and recovery paths. Every step is idempotent: rerunning a feed gives the same state.</text>
+</svg>

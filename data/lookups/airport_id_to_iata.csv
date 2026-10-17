@@ -1,0 +1,308 @@
+AIRPORT_ID,IATA_CODE,DESCRIPTION,MAP_SOURCE
+10135,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",bts
+10136,ABI,"Abilene, TX: Abilene Regional",bts
+10140,ABQ,"Albuquerque, NM: Albuquerque International Sunport",bts
+10141,ABR,"Aberdeen, SD: Aberdeen Regional",bts
+10146,ABY,"Albany, GA: Southwest Georgia Regional",bts
+10154,ACK,"Nantucket, MA: Nantucket Memorial",bts
+10155,ACT,"Waco, TX: Waco Regional",bts
+10157,ACV,"Arcata/Eureka, CA: California Redwood Coast Humboldt County",bts
+10158,ACY,"Atlantic City, NJ: Atlantic City International",bts
+10165,ADK,"Adak Island, AK: Adak",bts
+10170,ADQ,"Kodiak, AK: Kodiak Airport",bts
+10185,AEX,"Alexandria, LA: Alexandria International",bts
+10208,AGS,"Augusta, GA: Augusta Regional at Bush Field",bts
+10257,ALB,"Albany, NY: Albany International",bts
+10268,ALO,"Waterloo, IA: Waterloo Regional",bts
+10279,AMA,"Amarillo, TX: Rick Husband Amarillo International",bts
+10299,ANC,"Anchorage, AK: Ted Stevens Anchorage International",bts
+10333,APN,"Alpena, MI: Alpena County Regional",bts
+10372,ASE,"Aspen, CO: Aspen Pitkin County Sardy Field",bts
+10397,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",bts
+10408,ATW,"Appleton, WI: Appleton International",bts
+10423,AUS,"Austin, TX: Austin - Bergstrom International",bts
+10431,AVL,"Asheville, NC: Asheville Regional",bts
+10434,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",bts
+10469,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",bts
+10529,BDL,"Hartford, CT: Bradley International",bts
+10551,BET,"Bethel, AK: Bethel Airport",bts
+10561,BFL,"Bakersfield, CA: Meadows Field",bts
+10577,BGM,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",bts
+10581,BGR,"Bangor, ME: Bangor International",bts
+10599,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",bts
+10620,BIL,"Billings, MT: Billings Logan International",bts
+10627,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",bts
+10631,BJI,"Bemidji, MN: Bemidji Regional",bts
+10666,BLI,"Bellingham, WA: Bellingham International",bts
+10685,BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",bts
+10693,BNA,"Nashville, TN: Nashville International",bts
+10713,BOI,"Boise, ID: Boise Air Terminal",bts
+10721,BOS,"Boston, MA: Logan International",bts
+10728,BPT,"Beaumont/Port Arthur, TX: Jack Brooks Regional",bts
+10731,BQK,"Brunswick, GA: Brunswick Golden Isles",bts
+10732,BQN,"Aguadilla, PR: Rafael Hernandez",bts
+10739,BRD,"Brainerd, MN: Brainerd Lakes Regional",bts
+10747,BRO,"Brownsville, TX: Brownsville South Padre Island International",bts
+10754,BRW,"Barrow, AK: Wiley Post/Will Rogers Memorial",bts
+10779,BTM,"Butte, MT: Bert Mooney",bts
+10781,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",bts
+10785,BTV,"Burlington, VT: Patrick Leahy Burlington International",bts
+10792,BUF,"Buffalo, NY: Buffalo Niagara International",bts
+10800,BUR,"Burbank, CA: Bob Hope",bts
+10821,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",bts
+10849,BZN,"Bozeman, MT: Bozeman Yellowstone International",bts
+10868,CAE,"Columbia, SC: Columbia Metropolitan",bts
+10874,CAK,"Akron, OH: Akron-Canton Regional",bts
+10918,CDC,"Cedar City, UT: Cedar City Regional",bts
+10926,CDV,"Cordova, AK: Merle K Mudhole Smith",bts
+10980,CHA,"Chattanooga, TN: Lovell Field",bts
+10990,CHO,"Charlottesville, VA: Charlottesville Albemarle",bts
+10994,CHS,"Charleston, SC: Charleston AFB/International",bts
+11003,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",bts
+11013,CIU,"Sault Ste. Marie, MI: Chippewa County International",bts
+11042,CLE,"Cleveland, OH: Cleveland-Hopkins International",bts
+11049,CLL,"College Station/Bryan, TX: Easterwood Field",bts
+11057,CLT,"Charlotte, NC: Charlotte Douglas International",bts
+11066,CMH,"Columbus, OH: John Glenn Columbus International",bts
+11067,CMI,"Champaign/Urbana, IL: University of Illinois/Willard",bts
+11076,CMX,"Hancock/Houghton, MI: Houghton County Memorial",bts
+11097,COD,"Cody, WY: Yellowstone Regional",bts
+11109,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",bts
+11111,COU,"Columbia, MO: Columbia Regional",bts
+11122,CPR,"Casper, WY: Casper/Natrona County International",bts
+11140,CRP,"Corpus Christi, TX: Corpus Christi International",bts
+11146,CRW,"Charleston/Dunbar, WV: West Virginia International Yeager",bts
+11150,CSG,"Columbus, GA: Columbus Airport",bts
+11193,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",bts
+11203,CWA,"Mosinee, WI: Central Wisconsin",bts
+11252,DAB,"Daytona Beach, FL: Daytona Beach International",bts
+11259,DAL,"Dallas, TX: Dallas Love Field",bts
+11267,DAY,"Dayton, OH: James M Cox/Dayton International",bts
+11274,DBQ,"Dubuque, IA: Dubuque Regional",bts
+11278,DCA,"Washington, DC: Ronald Reagan Washington National",bts
+11292,DEN,"Denver, CO: Denver International",bts
+11298,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",bts
+11308,DHN,"Dothan, AL: Dothan Regional",bts
+11315,DIK,"Dickinson, ND: Dickinson - Theodore Roosevelt Regional",bts
+11337,DLH,"Duluth, MN: Duluth International",bts
+11413,DRO,"Durango, CO: Durango La Plata County",bts
+11423,DSM,"Des Moines, IA: Des Moines International",bts
+11433,DTW,"Detroit, MI: Detroit Metro Wayne County",bts
+11447,DVL,"Devils Lake, ND: Devils Lake Regional",bts
+11471,EAU,"Eau Claire, WI: Chippewa Valley Regional",bts
+11481,ECP,"Panama City, FL: Northwest Florida Beaches International",bts
+11503,EGE,"Eagle, CO: Eagle County Regional",bts
+11525,EKO,"Elko, NV: Elko Regional",bts
+11537,ELM,"Elmira/Corning, NY: Elmira/Corning Regional",bts
+11540,ELP,"El Paso, TX: El Paso International",bts
+11577,ERI,"Erie, PA: Erie International/Tom Ridge Field",bts
+11587,ESC,"Escanaba, MI: Delta County",bts
+11603,EUG,"Eugene, OR: Mahlon Sweet Field",bts
+11612,EVV,"Evansville, IN: Evansville Regional",bts
+11617,EWN,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",bts
+11618,EWR,"Newark, NJ: Newark Liberty International",bts
+11624,EYW,"Key West, FL: Key West International",bts
+11630,FAI,"Fairbanks, AK: Fairbanks International",bts
+11637,FAR,"Fargo, ND: Hector International",bts
+11638,FAT,"Fresno, CA: Fresno Yosemite International",bts
+11641,FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field",bts
+11648,FCA,"Kalispell, MT: Glacier Park International",bts
+11695,FLG,"Flagstaff, AZ: Flagstaff Pulliam",bts
+11697,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",bts
+11721,FNT,"Flint, MI: Bishop International",bts
+11775,FSD,"Sioux Falls, SD: Joe Foss Field",bts
+11778,FSM,"Fort Smith, AR: Fort Smith Regional",bts
+11823,FWA,"Fort Wayne, IN: Fort Wayne International",bts
+11865,GCC,"Gillette, WY: Northeast Wyoming Regional",bts
+11867,GCK,"Garden City, KS: Garden City Regional",bts
+11884,GEG,"Spokane, WA: Spokane International",bts
+11898,GFK,"Grand Forks, ND: Grand Forks International",bts
+11905,GGG,"Longview, TX: East Texas Regional",bts
+11921,GJT,"Grand Junction, CO: Grand Junction Regional",bts
+11953,GNV,"Gainesville, FL: Gainesville Regional",bts
+11973,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",bts
+11977,GRB,"Green Bay, WI: Green Bay Austin Straubel International",bts
+11980,GRI,"Grand Island, NE: Central Nebraska Regional",bts
+11982,GRK,"Killeen, TX: Robert Gray AAF",bts
+11986,GRR,"Grand Rapids, MI: Gerald R. Ford International",bts
+11995,GSO,"Greensboro/High Point, NC: Piedmont Triad International",bts
+11996,GSP,"Greer, SC: Greenville-Spartanburg International",bts
+12003,GTF,"Great Falls, MT: Great Falls International",bts
+12007,GTR,"Columbus, MS: Golden Triangle Regional",bts
+12016,GUM,"Guam, TT: Guam International",bts
+12094,HDN,"Hayden, CO: Yampa Valley",bts
+12129,HIB,"Hibbing, MN: Range Regional",bts
+12156,HLN,"Helena, MT: Helena Regional",bts
+12173,HNL,"Honolulu, HI: Daniel K Inouye International",bts
+12177,HOB,"Hobbs, NM: Lea County Regional",bts
+12191,HOU,"Houston, TX: William P Hobby",bts
+12197,HPN,"White Plains, NY: Westchester County",bts
+12206,HRL,"Harlingen/San Benito, TX: Valley International",bts
+12217,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",bts
+12255,HYS,"Hays, KS: Hays Regional",bts
+12264,IAD,"Washington, DC: Washington Dulles International",bts
+12265,IAG,"Niagara Falls, NY: Niagara Falls International",bts
+12266,IAH,"Houston, TX: George Bush Intercontinental/Houston",bts
+12278,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",bts
+12280,IDA,"Idaho Falls, ID: Idaho Falls Regional",bts
+12323,ILM,"Wilmington, NC: Wilmington International",bts
+12335,IMT,"Iron Mountain/Kingsfd, MI: Ford",bts
+12339,IND,"Indianapolis, IN: Indianapolis International",bts
+12343,INL,"International Falls, MN: Falls International Einarson Field",bts
+12389,ISN,"Williston, ND: Sloulin Field International",bts
+12391,ISP,"Islip, NY: Long Island MacArthur",bts
+12402,ITO,"Hilo, HI: Hilo International",bts
+12441,JAC,"Jackson, WY: Jackson Hole",bts
+12448,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",bts
+12451,JAX,"Jacksonville, FL: Jacksonville International",bts
+12478,JFK,"New York, NY: John F. Kennedy International",bts
+12511,JLN,"Joplin, MO: Joplin Regional",bts
+12519,JMS,"Jamestown, ND: Jamestown Regional",bts
+12523,JNU,"Juneau, AK: Juneau International",bts
+12758,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",bts
+12819,KTN,"Ketchikan, AK: Ketchikan International",bts
+12884,LAN,"Lansing, MI: Capital Region International",bts
+12888,LAR,"Laramie, WY: Laramie Regional",bts
+12889,LAS,"Las Vegas, NV: Harry Reid International",bts
+12891,LAW,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",bts
+12892,LAX,"Los Angeles, CA: Los Angeles International",bts
+12896,LBB,"Lubbock, TX: Lubbock Preston Smith International",bts
+12898,LBE,"Latrobe, PA: Arnold Palmer Regional",bts
+12915,LCH,"Lake Charles, LA: Lake Charles Regional",bts
+12945,LEX,"Lexington, KY: Blue Grass",bts
+12951,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",bts
+12953,LGA,"New York, NY: LaGuardia",bts
+12954,LGB,"Long Beach, CA: Long Beach Airport",bts
+12982,LIH,"Lihue, HI: Lihue Airport",bts
+12992,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",bts
+13029,LNK,"Lincoln, NE: Lincoln Airport",bts
+13061,LRD,"Laredo, TX: Laredo International",bts
+13076,LSE,"La Crosse, WI: La Crosse Regional",bts
+13127,LWS,"Lewiston, ID: Lewiston Nez Perce County",bts
+13158,MAF,"Midland/Odessa, TX: Midland International Air and Space Port",bts
+13184,MBS,"Saginaw/Bay City/Midland, MI: MBS International",bts
+13198,MCI,"Kansas City, MO: Kansas City International",bts
+13204,MCO,"Orlando, FL: Orlando International",bts
+13230,MDT,"Harrisburg, PA: Harrisburg International",bts
+13232,MDW,"Chicago, IL: Chicago Midway International",bts
+13241,MEI,"Meridian, MS: Key Field",bts
+13244,MEM,"Memphis, TN: Memphis International",bts
+13256,MFE,"Mission/McAllen/Edinburg, TX: McAllen International",bts
+13264,MFR,"Medford, OR: Rogue Valley International - Medford",bts
+13277,MGM,"Montgomery, AL: Montgomery Regional",bts
+13290,MHK,"Manhattan/Ft. Riley, KS: Manhattan Regional",bts
+13296,MHT,"Manchester, NH: Manchester Boston Regional",bts
+13303,MIA,"Miami, FL: Miami International",bts
+13342,MKE,"Milwaukee, WI: General Mitchell International",bts
+13344,MKG,"Muskegon, MI: Muskegon County",bts
+13360,MLB,"Melbourne, FL: Melbourne Orlando International",bts
+13367,MLI,"Moline, IL: Quad Cities International",bts
+13377,MLU,"Monroe, LA: Monroe Regional",bts
+13422,MOB,"Mobile, AL: Mobile Regional",bts
+13433,MOT,"Minot, ND: Minot International",bts
+13459,MQT,"Marquette, MI: Marquette Sawyer Regional",bts
+13476,MRY,"Monterey, CA: Monterey Regional",bts
+13485,MSN,"Madison, WI: Dane County Regional-Truax Field",bts
+13486,MSO,"Missoula, MT: Missoula Montana",bts
+13487,MSP,"Minneapolis, MN: Minneapolis-St Paul International",bts
+13495,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",bts
+13502,MTJ,"Montrose/Delta, CO: Montrose Regional",bts
+13541,MVY,"Martha's Vineyard, MA: Martha's Vineyard Airport",bts
+13577,MYR,"Myrtle Beach, SC: Myrtle Beach International",bts
+13795,OAJ,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",bts
+13796,OAK,"Oakland, CA: Oakland International",bts
+13830,OGG,"Kahului, HI: Kahului Airport",bts
+13851,OKC,"Oklahoma City, OK: Okc Will Rogers International",bts
+13871,OMA,"Omaha, NE: Eppley Airfield",bts
+13873,OME,"Nome, AK: Nome Airport",bts
+13891,ONT,"Ontario, CA: Ontario International",bts
+13930,ORD,"Chicago, IL: Chicago O'Hare International",bts
+13931,ORF,"Norfolk, VA: Norfolk International",bts
+13933,ORH,"Worcester, MA: Worcester Regional",bts
+13964,OTH,"North Bend/Coos Bay, OR: Southwest Oregon Regional",bts
+13970,OTZ,"Kotzebue, AK: Ralph Wien Memorial",bts
+14006,PAH,"Paducah, KY: Barkley Regional",bts
+14025,PBG,"Plattsburgh, NY: Plattsburgh International",bts
+14027,PBI,"West Palm Beach/Palm Beach, FL: Donald J Trump International",data_vote
+14057,PDX,"Portland, OR: Portland International",bts
+14098,PHF,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",bts
+14100,PHL,"Philadelphia, PA: Philadelphia International",bts
+14107,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",bts
+14108,PIA,"Peoria, IL: General Downing - Peoria International",bts
+14109,PIB,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",bts
+14113,PIH,"Pocatello, ID: Pocatello Regional",bts
+14122,PIT,"Pittsburgh, PA: Pittsburgh International",bts
+14150,PLN,"Pellston, MI: Pellston Regional Emmet County",bts
+14193,PNS,"Pensacola, FL: Pensacola International",bts
+14222,PPG,"Pago Pago, TT: Pago Pago International",bts
+14252,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",bts
+14254,PSE,"Ponce, PR: Mercedita",bts
+14256,PSG,"Petersburg, AK: Petersburg James A Johnson",bts
+14262,PSP,"Palm Springs, CA: Palm Springs International",bts
+14307,PVD,"Providence, RI: Rhode Island Tf Green International",bts
+14321,PWM,"Portland, ME: Portland International Jetport",bts
+14457,RAP,"Rapid City, SD: Rapid City Regional",bts
+14487,RDD,"Redding, CA: Redding Regional",bts
+14489,RDM,"Bend/Redmond, OR: Roberts Field",bts
+14492,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",bts
+14520,RHI,"Rhinelander, WI: Rhinelander/Oneida County",bts
+14524,RIC,"Richmond, VA: Richmond International",bts
+14543,RKS,"Rock Springs, WY: Southwest Wyoming Regional",bts
+14570,RNO,"Reno, NV: Reno/Tahoe International",bts
+14574,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",bts
+14576,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",bts
+14588,ROW,"Roswell, NM: Roswell Air Center",bts
+14633,RST,"Rochester, MN: Rochester International",bts
+14635,RSW,"Fort Myers, FL: Southwest Florida International",bts
+14674,SAF,"Santa Fe, NM: Santa Fe Regional",bts
+14679,SAN,"San Diego, CA: San Diego International",bts
+14683,SAT,"San Antonio, TX: San Antonio International",bts
+14685,SAV,"Savannah, GA: Savannah/Hilton Head International",bts
+14689,SBA,"Santa Barbara, CA: Santa Barbara Municipal",bts
+14696,SBN,"South Bend, IN: South Bend International",bts
+14698,SBP,"San Luis Obispo, CA: San Luis Obispo County Regional",bts
+14709,SCC,"Deadhorse, AK: Deadhorse Airport",bts
+14711,SCE,"State College, PA: State College Regional",bts
+14730,SDF,"Louisville, KY: Louisville Muhammad Ali International",bts
+14747,SEA,"Seattle, WA: Seattle/Tacoma International",bts
+14771,SFO,"San Francisco, CA: San Francisco International",bts
+14783,SGF,"Springfield, MO: Springfield-Branson National",bts
+14794,SGU,"St. George, UT: St George Regional",bts
+14814,SHV,"Shreveport, LA: Shreveport Regional",bts
+14828,SIT,"Sitka, AK: Sitka Rocky Gutierrez",bts
+14831,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",bts
+14842,SJT,"San Angelo, TX: San Angelo Regional/Mathis Field",bts
+14843,SJU,"San Juan, PR: Luis Munoz Marin International",bts
+14869,SLC,"Salt Lake City, UT: Salt Lake City International",bts
+14893,SMF,"Sacramento, CA: Sacramento International",bts
+14905,SMX,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",bts
+14908,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",bts
+14952,SPI,"Springfield, IL: Abraham Lincoln Capital",bts
+14960,SPS,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",bts
+14986,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",bts
+15016,STL,"St. Louis, MO: St Louis Lambert International",bts
+15024,STT,"Charlotte Amalie, VI: Cyril E King",bts
+15027,STX,"Christiansted, VI: Henry E. Rohlsen",bts
+15041,SUN,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",bts
+15048,SUX,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",bts
+15070,SWF,"Newburgh/Poughkeepsie, NY: New York Stewart International",bts
+15096,SYR,"Syracuse, NY: Syracuse Hancock International",bts
+15249,TLH,"Tallahassee, FL: Tallahassee International",bts
+15295,TOL,"Toledo, OH: Eugene F Kranz Toledo Express",bts
+15304,TPA,"Tampa, FL: Tampa International",bts
+15323,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",bts
+15356,TTN,"Trenton, NJ: Trenton Mercer",bts
+15370,TUL,"Tulsa, OK: Tulsa International",bts
+15376,TUS,"Tucson, AZ: Tucson International",bts
+15380,TVC,"Traverse City, MI: Cherry Capital",bts
+15389,TWF,"Twin Falls, ID: Joslin Field - Magic Valley Regional",bts
+15401,TXK,"Texarkana, AR: Texarkana Regional-Webb Field",bts
+15411,TYR,"Tyler, TX: Tyler Pounds Regional",bts
+15412,TYS,"Knoxville, TN: McGhee Tyson",bts
+15497,UST,"St. Augustine, FL: Northeast Florida Regional",bts
+15607,VLD,"Valdosta, GA: Valdosta Regional",bts
+15624,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",bts
+15841,WRG,"Wrangell, AK: Wrangell Airport",bts
+15919,XNA,"Fayetteville, AR: Northwest Arkansas National",bts
+15991,YAK,"Yakutat, AK: Yakutat Airport",bts
+16218,YUM,"Yuma, AZ: Yuma MCAS/Yuma International",bts
